@@ -1,0 +1,6 @@
+9
+f[1]=='Yes', No
+f[1]=='No' and f[2]=='Yes', No
+f[1]=='No' and f[2]=='No' and f[0]=='1st/2nd/3rd year', Yes
+f[1]=='No' and f[2]=='No' and f[0]=='4th/5th year', No
+f[1]=='No' and f[2]=='No' and f[0]=='Outsider', Yes 
